@@ -41,4 +41,4 @@ In the previous section we've joined all the separate datasets into one. The pur
 ### 5. Exploratory data analysis of the movies
 This section analyzes the data about movie titles (movie/tvMovie).
 We've started this section with univariate analysis, describing individual variables, moving on to bivariate analysis, where we assessed the variable correlations.
-We concluded by investigating if the movie's average rating can be modeled using a multivariate linear regression model containing the features we've found to be relevant in the previous stages.
+We concluded by investigating if the movie's average rating can be modeled using a multivariable linear regression model containing the features we've found to be relevant in the previous stages.
